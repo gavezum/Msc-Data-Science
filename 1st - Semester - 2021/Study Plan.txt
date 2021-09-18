@@ -1,0 +1,21 @@
+Fds:
+	1. Relembrar a ultima aula de data mining e fazer anotações
+	2. Ver os tutoriais do github
+	3. Ver o novo slide de machine learning
+
+Segunda:
+	1. rever os slides da aula pratica
+	2. ler um pouco na net sobre as distribuições de probabilidade
+	3. rever a aula pratica
+	4. treinar matrizes
+	5. estudar R
+Terça:
+	1. Manhã - continuar estudando R
+	2. tarde. ver a aula pratica de Ml
+Quarta:
+	1. ver os slides da aula pratica de python
+	2. fazer os challenges da aula
+	3. ver oq foi dado na aula pratica de terça
+Quinta:
+	1. manhã revisar estat.
+	2. tarde revisar python
